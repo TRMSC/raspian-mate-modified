@@ -5,6 +5,8 @@ Install RaspianOS with a customizable mate-desktop and some modern stylesheets.
 
 There is plan for making a theme or an image in this repository. Till then you can use the description in this file. 
 
+![htm-mode](https://raw.githubusercontent.com/TRMSC/raspian-mate-modified/main/thumbnail.png)
+
 The wallpaper on the image in this repository is from https://wallpaper.dog/dark-linux-mint-wallpapers. Got inspirations for this article from https://ubuntu-mate.community/t/how-to-install-a-minimal-mate-desktop-on-your-raspberry-pi/16077
 
 
